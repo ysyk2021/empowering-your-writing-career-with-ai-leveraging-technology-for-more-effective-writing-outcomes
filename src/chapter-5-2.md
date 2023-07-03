@@ -3,13 +3,6 @@ Machine Learning-Powered Tools for Creating Customized Language and Tone
 
 Creating customized content that resonates with your target audience is essential for effective communication. However, crafting content that speaks to each individual reader can be time-consuming and difficult. In this chapter, we will explore how machine learning-powered tools can be used to create customized language and tone in writing, making it easier for writers to connect with their audiences.
 
-What is Machine Learning?
--------------------------
-
-Machine learning is a subset of artificial intelligence (AI) that involves training algorithms on large datasets to identify patterns and relationships between variables. Once trained, these algorithms can be used to make predictions or classifications on new data.
-
-In the context of writing, machine learning can be used to analyze large datasets of text to identify patterns in language, tone, and style.
-
 Machine Learning-Powered Tools for Creating Customized Language and Tone
 ------------------------------------------------------------------------
 
