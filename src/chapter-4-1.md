@@ -1,5 +1,3 @@
-Using Machine Learning to Improve Grammar, Syntax, and Style
-==============================================================================================================
 
 Effective communication is a critical component of a successful writing career. However, grammar, syntax, and style can be challenging to master, even for experienced writers. Fortunately, AI-powered machine learning algorithms can help writers improve their writing skills more effectively than ever before.
 

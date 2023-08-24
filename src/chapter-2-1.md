@@ -1,5 +1,3 @@
-What is AI and how does it work?
-=====================================================================================================
 
 Artificial intelligence (AI) has become an increasingly popular topic in recent years, with many industries adopting this technology to improve their processes and outcomes. In writing careers, the application of AI can lead to more efficient and effective writing outcomes. In this chapter, we will explore what AI is and how it works in the context of writing careers.
 

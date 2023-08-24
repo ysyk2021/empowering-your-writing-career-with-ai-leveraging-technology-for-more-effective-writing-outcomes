@@ -1,5 +1,3 @@
-The Role of AI in Advancing Writing Careers
-=========================================================
 
 Artificial intelligence (AI) has become a game-changer in the writing industry, providing writers with new tools and opportunities to enhance their careers. In this book, we will explore how AI can be leveraged to empower your writing career and improve your writing outcomes.
 

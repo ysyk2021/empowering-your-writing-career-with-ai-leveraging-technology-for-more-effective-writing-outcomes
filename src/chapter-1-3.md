@@ -1,5 +1,3 @@
-What You Can Expect from This Book
-================================================
 
 Artificial intelligence (AI) is transforming the world of writing, providing writers with new tools and opportunities to enhance their careers. In this book, we will explore how AI can be leveraged to empower your writing career and improve writing outcomes.
 

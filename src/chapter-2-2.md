@@ -1,5 +1,3 @@
-Common Applications of AI in Writing Careers, including Content Creation and Marketing
-===========================================================================================================================================================
 
 Artificial intelligence (AI) has become an increasingly popular technology in writing careers, providing writers with new tools and opportunities to enhance their work. In this chapter, we will explore some common applications of AI in writing careers, including content creation and marketing.
 

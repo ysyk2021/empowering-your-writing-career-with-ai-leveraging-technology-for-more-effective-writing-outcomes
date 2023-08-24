@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 Recap of the Benefits of Using AI in Writing Careers
 ----------------------------------------------------

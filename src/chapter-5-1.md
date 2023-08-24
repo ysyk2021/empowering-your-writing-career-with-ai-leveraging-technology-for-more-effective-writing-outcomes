@@ -1,5 +1,3 @@
-Personalizing Content for Specific Audiences with Machine Learning-Powered Targeting and Segmentation
-===================================================================================================================================================================
 
 Creating personalized content for specific audiences is essential for effective communication. In this chapter, we will explore how machine learning-powered targeting and segmentation can be used to personalize content for individual readers and drive more effective writing outcomes.
 

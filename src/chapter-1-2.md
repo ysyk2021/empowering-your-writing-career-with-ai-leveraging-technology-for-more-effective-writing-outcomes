@@ -1,5 +1,3 @@
-How AI Can Enhance Productivity and Creativity in the Writing Process
-===================================================================================
 
 Artificial intelligence (AI) has become an increasingly important technology in the writing industry, providing writers with new tools and opportunities to enhance their work. In this book, we explore how AI can empower your writing career and improve your writing outcomes.
 

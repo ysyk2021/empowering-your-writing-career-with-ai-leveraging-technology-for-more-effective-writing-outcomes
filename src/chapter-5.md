@@ -1,5 +1,3 @@
-Chapter 4: Creating Customized Content with Machine Learning
-============================================================
 
 As the writing industry becomes increasingly competitive, it is important for writers to create customized content that resonates with specific audiences. Fortunately, AI-powered machine learning algorithms can help writers personalize their content more effectively than ever before.
 

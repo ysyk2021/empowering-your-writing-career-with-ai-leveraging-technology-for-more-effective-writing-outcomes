@@ -1,5 +1,3 @@
-Using Machine Learning-Powered Research Tools to Gather Information and Sources
-====================================================================================================================================================
 
 Research is a crucial component of effective writing, but it can be time-consuming and challenging to gather reliable information and sources. Fortunately, machine learning-powered research tools can help writers find and evaluate sources more efficiently and accurately than ever before.
 
