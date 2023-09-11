@@ -1,5 +1,4 @@
-Chapter 5: Addressing Concerns About Privacy and Security When Using AI in Writing Careers
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your journey to empower your writing career with AI and technology, it's crucial to address the legitimate concerns regarding privacy and security. This chapter delves into the potential risks associated with AI implementation and offers strategies to mitigate them, ensuring the responsible use of technology in your writing endeavors.
 

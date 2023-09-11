@@ -1,5 +1,4 @@
-Chapter 6: Machine Learning-Powered Tools for Creating Customized Language and Tone
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your pursuit of empowering your writing career with AI and technology, this chapter explores the fascinating realm of machine learning-powered tools designed to craft customized language and tone. These tools can elevate your writing to new heights by tailoring your content to specific audiences, purposes, and emotions.
 

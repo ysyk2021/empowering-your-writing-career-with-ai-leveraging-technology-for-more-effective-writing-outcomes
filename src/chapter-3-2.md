@@ -1,5 +1,4 @@
-Chapter 8: Machine Learning-Powered Content Generators and Idea Prompts for Brainstorming and Inspiration
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of writing careers, inspiration and idea generation are often the bedrock of creativity. This chapter explores the transformative capabilities of machine learning-powered content generators and idea prompts that can empower your writing career by providing a constant wellspring of ideas and inspiration.
 

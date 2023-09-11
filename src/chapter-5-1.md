@@ -1,5 +1,4 @@
-Chapter 6: Personalizing Content for Specific Audiences with Machine Learning-Powered Targeting and Segmentation
-================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of writing careers, the ability to personalize content for specific audiences is becoming increasingly crucial. In this chapter, we will explore how machine learning-powered targeting and segmentation can empower your writing career, allowing you to create content that resonates deeply with diverse groups of readers and maximizes the impact of your work.
 

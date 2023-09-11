@@ -1,5 +1,4 @@
-Chapter 3: Common Applications of AI in Writing Careers, Including Content Creation and Marketing
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As you embark on your journey to empower your writing career with AI and technology, it's essential to explore the common applications of AI in the world of writing and content marketing. This chapter delves into how AI is being harnessed to optimize content creation, marketing strategies, and overall writing success.
 

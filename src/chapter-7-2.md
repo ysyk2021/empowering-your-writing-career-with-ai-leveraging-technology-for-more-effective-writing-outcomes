@@ -1,5 +1,4 @@
-Chapter 7: Best Practices for Integrating AI into Writing Career Workflows While Maintaining Authenticity and Integrity
-=======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your journey to empower your writing career with AI and technology, it's essential to strike a balance between leveraging AI's capabilities and preserving the authenticity and integrity of your craft. This chapter explores best practices for seamlessly integrating AI into your writing workflows while upholding the principles that define your unique voice and purpose.
 

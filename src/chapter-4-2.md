@@ -1,5 +1,4 @@
-Chapter 9: Machine Learning-Powered Tools for Plagiarism Detection and Prevention
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of empowering your writing career through the integration of AI and technology, understanding and harnessing machine learning-powered tools for plagiarism detection and prevention is paramount. This chapter delves into the world of AI-driven solutions that can safeguard your writing from unintentional plagiarism and ensure the integrity of your work.
 

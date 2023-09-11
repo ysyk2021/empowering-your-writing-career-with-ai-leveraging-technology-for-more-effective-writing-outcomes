@@ -1,5 +1,4 @@
-Chapter 4: Using Machine Learning to Improve Grammar, Syntax, and Style
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of empowering your writing career with the assistance of AI and technology, harnessing the power of machine learning is essential for refining your writing skills. This chapter delves into the ways in which machine learning can enhance your grasp of grammar, syntax, and writing style, ultimately leading to more effective writing outcomes.
 

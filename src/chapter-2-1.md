@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your journey to empower your writing career with AI and technology, it's essential to have a foundational understanding of what AI is and how it operates. This chapter will introduce you to the world of AI, shedding light on its core concepts, methodologies, and its role in enhancing the effectiveness of your writing.
 

@@ -1,5 +1,4 @@
-Chapter 9: Using Machine Learning-Powered Research Tools to Gather Information and Sources
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the contemporary landscape of writing careers, the ability to access and leverage vast amounts of information is crucial for producing well-informed and authoritative content. In this chapter, we will explore the utilization of machine learning-powered research tools, which can revolutionize the way you gather information and sources to enhance the quality and depth of your writing.
 

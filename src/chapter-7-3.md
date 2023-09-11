@@ -1,5 +1,4 @@
-Chapter 8: Future Developments and Trends in AI-Powered Writing Careers
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As you embark on the journey to empower your writing career with AI and technology, it's essential to stay ahead of the curve by anticipating future developments and trends in this rapidly evolving field. This chapter explores the exciting possibilities and emerging trends that are shaping the future of AI-powered writing careers.
 

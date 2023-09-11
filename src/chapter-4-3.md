@@ -1,5 +1,4 @@
-Chapter 8: Automating the Editing and Proofreading Process with Machine Learning
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to empower your writing career through the integration of AI and technology, mastering the art of automating the editing and proofreading process is a game-changing step. This chapter explores how machine learning can revolutionize the way you refine your writing, ensuring error-free and polished content with efficiency and precision.
 

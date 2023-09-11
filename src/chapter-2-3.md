@@ -1,5 +1,4 @@
-Chapter 2: Examples of Successful Implementation of AI in Writing Careers
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your pursuit of empowering your writing career with AI and technology, it's valuable to explore real-world examples of writers who have harnessed AI effectively. This chapter showcases instances of successful AI integration, providing inspiration and insights for your own writing journey.
 
